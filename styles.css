@@ -11,6 +11,11 @@
 #sourdough {
     background-image: url(images/sourdoughBread.webp)
 }
+
+.recipe {
+    text-decoration: none!important;
+    color: #FFFFFF;
+}
 .flex-container {
     display: flex;
     flex-direction: column;
@@ -23,7 +28,6 @@
     text-align: center;
     background-size: cover;
     background-position: center;
-    text-decoration: none;
 }
 /*
 .recipe {
